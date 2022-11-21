@@ -1,2 +1,2 @@
 def main():
-    print(" dit is de tweede module")
+    print("Dit is de tweede module")
